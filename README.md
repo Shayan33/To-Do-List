@@ -1,4 +1,5 @@
 # To-Do-List
-Written in javascript based on Node JS and Express. Using MongoDB to store tasks. Handling POST, GET, DELETE
+
+It is written in javascript based on Node JS and Express. Utilized MongoDB to store tasks. It has the ability to Handle POST, GET, DELETE requests.
 
 ![Screenshot](public/assets/todolist.jpg?raw=true)
