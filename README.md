@@ -1,2 +1,2 @@
 # To-Do-List
-![alt text](http://url/to/img.png)
+![Screenshot](public/assets/todolist.jpg?raw=true)
