@@ -1,0 +1,17 @@
+{
+  "name": "finaltutorialapp",
+  "version": "1.0.0",
+  "description": "a little todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.22"
+  }
+}
